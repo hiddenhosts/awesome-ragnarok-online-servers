@@ -21,13 +21,13 @@ A curated list of Ragnarok Online private servers, maintained by [HiddenHosts](h
 <!-- SERVERS_START -->
 | Name | EXP Rate | Gold Rate | Drop Rate | Votes | Rating | Link |
 |------|----------|----------|----------|--------|------|------|
-| 花夜仙境 | 30x | 1x | 1x | 2 | - | [Details](https://hiddenhosts.com/en/ro/server-guuvth) |
-| 七七仙境 | 999x | 1x | 1x | 2 | - | [Details](https://hiddenhosts.com/en/ro/server-a6182y) |
-| 亞卡迪亞 | 250x | 1x | 1x | 1 | - | [Details](https://hiddenhosts.com/en/ro/server-a9vid3) |
-| 夢憶仙境 | 50x | 1x | 1x | 1 | - | [Details](https://hiddenhosts.com/en/ro/server-bnez6m) |
-| 星光詠嘆 | 200x | 1x | 1x | 0 | - | [Details](https://hiddenhosts.com/en/ro/server-d89kj4) |
-| AIRO | 2x | 1x | 1x | 0 | - | [Details](https://hiddenhosts.com/en/ro/airo) |
-| 樂比仙境 | 50x | 1x | 1x | 0 | - | [Details](https://hiddenhosts.com/en/ro/server-dtir18) |
+| 花夜仙境 | 30x | 1x | 1x | 2 | - | [Details](https://hiddenhosts.com/en/ragnarok-online/server-guuvth) |
+| 七七仙境 | 999x | 1x | 1x | 2 | - | [Details](https://hiddenhosts.com/en/ragnarok-online/server-a6182y) |
+| AIRO | 2x | 1x | 1x | 1 | - | [Details](https://hiddenhosts.com/en/ragnarok-online/airo) |
+| 夢憶仙境 | 50x | 1x | 1x | 1 | - | [Details](https://hiddenhosts.com/en/ragnarok-online/server-bnez6m) |
+| 亞卡迪亞 | 250x | 1x | 1x | 1 | - | [Details](https://hiddenhosts.com/en/ragnarok-online/server-a9vid3) |
+| 星光詠嘆 | 200x | 1x | 1x | 0 | - | [Details](https://hiddenhosts.com/en/ragnarok-online/server-d89kj4) |
+| 樂比仙境 | 50x | 1x | 1x | 0 | - | [Details](https://hiddenhosts.com/en/ragnarok-online/server-dtir18) |
 <!-- SERVERS_END -->
 
 > 🔗 Browse all RO servers: [hiddenhosts.com/en/ro](https://hiddenhosts.com/en/ro)

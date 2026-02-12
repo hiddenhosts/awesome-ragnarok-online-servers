@@ -21,13 +21,13 @@
 <!-- SERVERS_START -->
 | 名稱 | 經驗倍率 | 金幣倍率 | 掉寶倍率 | 投票數 | 評分 | 連結 |
 |------|----------|----------|----------|--------|------|------|
-| 花夜仙境 | 30x | 1x | 1x | 2 | - | [詳情](https://hiddenhosts.com/tw/ro/server-guuvth) |
-| 七七仙境 | 999x | 1x | 1x | 2 | - | [詳情](https://hiddenhosts.com/tw/ro/server-a6182y) |
-| 亞卡迪亞 | 250x | 1x | 1x | 1 | - | [詳情](https://hiddenhosts.com/tw/ro/server-a9vid3) |
-| 夢憶仙境 | 50x | 1x | 1x | 1 | - | [詳情](https://hiddenhosts.com/tw/ro/server-bnez6m) |
-| 星光詠嘆 | 200x | 1x | 1x | 0 | - | [詳情](https://hiddenhosts.com/tw/ro/server-d89kj4) |
-| AIRO | 2x | 1x | 1x | 0 | - | [詳情](https://hiddenhosts.com/tw/ro/airo) |
-| 樂比仙境 | 50x | 1x | 1x | 0 | - | [詳情](https://hiddenhosts.com/tw/ro/server-dtir18) |
+| 花夜仙境 | 30x | 1x | 1x | 2 | - | [詳情](https://hiddenhosts.com/tw/ragnarok-online/server-guuvth) |
+| 七七仙境 | 999x | 1x | 1x | 2 | - | [詳情](https://hiddenhosts.com/tw/ragnarok-online/server-a6182y) |
+| AIRO | 2x | 1x | 1x | 1 | - | [詳情](https://hiddenhosts.com/tw/ragnarok-online/airo) |
+| 夢憶仙境 | 50x | 1x | 1x | 1 | - | [詳情](https://hiddenhosts.com/tw/ragnarok-online/server-bnez6m) |
+| 亞卡迪亞 | 250x | 1x | 1x | 1 | - | [詳情](https://hiddenhosts.com/tw/ragnarok-online/server-a9vid3) |
+| 星光詠嘆 | 200x | 1x | 1x | 0 | - | [詳情](https://hiddenhosts.com/tw/ragnarok-online/server-d89kj4) |
+| 樂比仙境 | 50x | 1x | 1x | 0 | - | [詳情](https://hiddenhosts.com/tw/ragnarok-online/server-dtir18) |
 <!-- SERVERS_END -->
 
 > 🔗 查看所有仙境傳說私服：[hiddenhosts.com/tw/ro](https://hiddenhosts.com/tw/ro)
