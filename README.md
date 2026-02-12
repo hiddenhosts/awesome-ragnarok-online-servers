@@ -6,7 +6,7 @@
 
 # Awesome Ragnarok Online Private Servers
 
-[![Sync](https://github.com/hiddenhosts/awesome-ro-servers/actions/workflows/sync.yml/badge.svg)](https://github.com/hiddenhosts/awesome-ro-servers/actions/workflows/sync.yml)
+[![Sync](https://github.com/hiddenhosts/awesome-ragnarok-online-servers/actions/workflows/sync.yml/badge.svg)](https://github.com/hiddenhosts/awesome-ragnarok-online-servers/actions/workflows/sync.yml)
 
 精選仙境傳說私服列表，由 [HiddenHosts](https://hiddenhosts.com) 維護並每日自動更新。
 
@@ -19,15 +19,11 @@
 > 以下列表按投票數排序，每日自動從 [HiddenHosts](https://hiddenhosts.com) 同步更新。
 
 <!-- SERVERS_START -->
+
 | 名稱 | 經驗倍率 | 金幣倍率 | 掉寶倍率 | 投票數 | 評分 | 連結 |
 |------|----------|----------|----------|--------|------|------|
-| 花夜仙境 | 30x | 1x | 1x | 2 | - | [詳情](https://hiddenhosts.com/server/server-guuvth) |
-| 七七仙境 | 999x | 1x | 1x | 2 | - | [詳情](https://hiddenhosts.com/server/server-a6182y) |
-| AIRO | 2x | 1x | 1x | 1 | - | [詳情](https://hiddenhosts.com/server/airo) |
-| 夢憶仙境 | 50x | 1x | 1x | 1 | - | [詳情](https://hiddenhosts.com/server/server-bnez6m) |
-| 亞卡迪亞 | 250x | 1x | 1x | 1 | - | [詳情](https://hiddenhosts.com/server/server-a9vid3) |
-| 星光詠嘆 | 200x | 1x | 1x | 0 | - | [詳情](https://hiddenhosts.com/server/server-d89kj4) |
-| 樂比仙境 | 50x | 1x | 1x | 0 | - | [詳情](https://hiddenhosts.com/server/server-dtir18) |
+| 等待首次同步... | - | - | - | - | - | [查看全部](https://hiddenhosts.com/game/ragnarok-online) |
+
 <!-- SERVERS_END -->
 
 > 🔗 查看所有仙境傳說私服：[hiddenhosts.com/game/ragnarok-online](https://hiddenhosts.com/game/ragnarok-online)
