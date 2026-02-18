@@ -24,11 +24,11 @@
 |------|----------|----------|----------|--------|------|------|
 | 七七仙境 | 999x | 1x | 1x | 8 | - | [詳情](https://hiddenhosts.com/server/server-a6182y) |
 | 花夜仙境 | 30x | 1x | 1x | 6 | - | [詳情](https://hiddenhosts.com/server/server-guuvth) |
-| 亞卡迪亞 | 250x | 1x | 1x | 5 | - | [詳情](https://hiddenhosts.com/server/server-a9vid3) |
+| 亞卡迪亞 | 250x | 1x | 1x | 6 | - | [詳情](https://hiddenhosts.com/server/server-a9vid3) |
+| 星光詠嘆 | 200x | 1x | 1x | 4 | - | [詳情](https://hiddenhosts.com/server/server-d89kj4) |
 | AIRO | 2x | 1x | 1x | 4 | - | [詳情](https://hiddenhosts.com/server/airo) |
-| 星光詠嘆 | 200x | 1x | 1x | 2 | - | [詳情](https://hiddenhosts.com/server/server-d89kj4) |
+| 樂比仙境 | 50x | 1x | 1x | 3 | - | [詳情](https://hiddenhosts.com/server/server-dtir18) |
 | 夢憶仙境 | 50x | 1x | 1x | 2 | - | [詳情](https://hiddenhosts.com/server/server-bnez6m) |
-| 樂比仙境 | 50x | 1x | 1x | 1 | - | [詳情](https://hiddenhosts.com/server/server-dtir18) |
 
 <!-- SERVERS_END -->
 
