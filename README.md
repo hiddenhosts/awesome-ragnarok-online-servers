@@ -23,7 +23,7 @@
 | 名稱 | 經驗倍率 | 金幣倍率 | 掉寶倍率 | 投票數 | 評分 | 連結 |
 |------|----------|----------|----------|--------|------|------|
 | 七七仙境 | 999x | 1x | 1x | 28 | - | [詳情](https://hiddenhosts.com/server/server-a6182y) |
-| 花夜仙境 | 30x | 1x | 1x | 25 | - | [詳情](https://hiddenhosts.com/server/server-guuvth) |
+| 花夜仙境 | 30x | 1x | 1x | 27 | - | [詳情](https://hiddenhosts.com/server/server-guuvth) |
 | 亞卡迪亞 | 250x | 1x | 1x | 21 | - | [詳情](https://hiddenhosts.com/server/server-a9vid3) |
 | 樂比仙境 | 50x | 1x | 1x | 20 | - | [詳情](https://hiddenhosts.com/server/server-dtir18) |
 | AIRO | 2x | 1x | 1x | 17 | - | [詳情](https://hiddenhosts.com/server/airo) |
