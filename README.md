@@ -24,7 +24,7 @@
 |------|----------|----------|----------|--------|------|------|
 | 花夜仙境 | 30x | 1x | 1x | 36 | - | [詳情](https://hiddenhosts.com/server/server-guuvth) |
 | 七七仙境 | 999x | 1x | 1x | 35 | - | [詳情](https://hiddenhosts.com/server/server-a6182y) |
-| 樂比仙境 | 50x | 1x | 1x | 30 | - | [詳情](https://hiddenhosts.com/server/server-dtir18) |
+| 樂比仙境 | 50x | 1x | 1x | 31 | - | [詳情](https://hiddenhosts.com/server/server-dtir18) |
 | 亞卡迪亞 | 250x | 1x | 1x | 28 | - | [詳情](https://hiddenhosts.com/server/server-a9vid3) |
 | AIRO | 2x | 1x | 1x | 21 | - | [詳情](https://hiddenhosts.com/server/airo) |
 | 夢憶仙境 | 50x | 1x | 1x | 20 | - | [詳情](https://hiddenhosts.com/server/server-bnez6m) |
