@@ -22,13 +22,13 @@
 
 | 名稱 | 經驗倍率 | 金幣倍率 | 掉寶倍率 | 投票數 | 評分 | 連結 |
 |------|----------|----------|----------|--------|------|------|
-| 七七仙境 | 999x | 1x | 1x | 42 | - | [詳情](https://hiddenhosts.com/server/server-a6182y) |
+| 七七仙境 | 999x | 1x | 1x | 44 | - | [詳情](https://hiddenhosts.com/server/server-a6182y) |
 | 花夜仙境 | 30x | 1x | 1x | 42 | - | [詳情](https://hiddenhosts.com/server/server-guuvth) |
-| 樂比仙境 | 50x | 1x | 1x | 37 | - | [詳情](https://hiddenhosts.com/server/server-dtir18) |
+| 樂比仙境 | 50x | 1x | 1x | 38 | - | [詳情](https://hiddenhosts.com/server/server-dtir18) |
 | 亞卡迪亞 | 250x | 1x | 1x | 35 | - | [詳情](https://hiddenhosts.com/server/server-a9vid3) |
-| 夢憶仙境 | 50x | 1x | 1x | 32 | - | [詳情](https://hiddenhosts.com/server/server-bnez6m) |
-| AIRO | 2x | 1x | 1x | 29 | - | [詳情](https://hiddenhosts.com/server/airo) |
-| 星光詠嘆 | 200x | 1x | 1x | 24 | - | [詳情](https://hiddenhosts.com/server/server-d89kj4) |
+| 夢憶仙境 | 50x | 1x | 1x | 34 | - | [詳情](https://hiddenhosts.com/server/server-bnez6m) |
+| AIRO | 2x | 1x | 1x | 30 | - | [詳情](https://hiddenhosts.com/server/airo) |
+| 星光詠嘆 | 200x | 1x | 1x | 26 | - | [詳情](https://hiddenhosts.com/server/server-d89kj4) |
 
 <!-- SERVERS_END -->
 
