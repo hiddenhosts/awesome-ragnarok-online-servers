@@ -22,9 +22,9 @@ A curated list of Ragnarok Online private servers, maintained by [HiddenHosts](h
 
 | Name | EXP Rate | Gold Rate | Drop Rate | Votes | Rating | Link |
 |------|----------|----------|----------|--------|------|------|
-| 七七仙境 | 999x | 1x | 1x | 52 | - | [Details](https://hiddenhosts.com/en/server/server-a6182y) |
+| 七七仙境 | 999x | 1x | 1x | 53 | - | [Details](https://hiddenhosts.com/en/server/server-a6182y) |
+| 亞卡迪亞 | 250x | 1x | 1x | 48 | - | [Details](https://hiddenhosts.com/en/server/server-a9vid3) |
 | 樂比仙境 | 50x | 1x | 1x | 47 | - | [Details](https://hiddenhosts.com/en/server/server-dtir18) |
-| 亞卡迪亞 | 250x | 1x | 1x | 47 | - | [Details](https://hiddenhosts.com/en/server/server-a9vid3) |
 | 花夜仙境 | 30x | 1x | 1x | 45 | - | [Details](https://hiddenhosts.com/en/server/server-guuvth) |
 | AIRO | 2x | 1x | 1x | 39 | - | [Details](https://hiddenhosts.com/en/server/airo) |
 | 夢憶仙境 | 50x | 1x | 1x | 38 | - | [Details](https://hiddenhosts.com/en/server/server-bnez6m) |
