@@ -24,11 +24,11 @@ A curated list of Ragnarok Online private servers, maintained by [HiddenHosts](h
 |------|----------|----------|----------|--------|------|------|
 | 亞卡迪亞 | 250x | 1x | 1x | 63 | - | [Details](https://hiddenhosts.com/en/server/server-a9vid3) |
 | 七七仙境 | 999x | 1x | 1x | 62 | - | [Details](https://hiddenhosts.com/en/server/server-a6182y) |
-| 花夜仙境 | 30x | 1x | 1x | 59 | - | [Details](https://hiddenhosts.com/en/server/server-guuvth) |
+| 花夜仙境 | 30x | 1x | 1x | 60 | - | [Details](https://hiddenhosts.com/en/server/server-guuvth) |
 | 樂比仙境 | 50x | 1x | 1x | 55 | - | [Details](https://hiddenhosts.com/en/server/server-dtir18) |
-| 星光詠嘆 | 200x | 1x | 1x | 51 | - | [Details](https://hiddenhosts.com/en/server/server-d89kj4) |
+| 星光詠嘆 | 200x | 1x | 1x | 52 | - | [Details](https://hiddenhosts.com/en/server/server-d89kj4) |
 | AIRO | 2x | 1x | 1x | 49 | - | [Details](https://hiddenhosts.com/en/server/airo) |
-| 夢憶仙境 | 50x | 1x | 1x | 46 | - | [Details](https://hiddenhosts.com/en/server/server-bnez6m) |
+| 夢憶仙境 | 50x | 1x | 1x | 47 | - | [Details](https://hiddenhosts.com/en/server/server-bnez6m) |
 
 <!-- SERVERS_END -->
 
