@@ -25,7 +25,7 @@ A curated list of Ragnarok Online private servers, maintained by [HiddenHosts](h
 | 夢憶仙境 | 50x | 1x | 1x | 26 | - | [Details](https://hiddenhosts.com/en/server/server-bnez6m) |
 | AIRO | 2x | 1x | 1x | 25 | - | [Details](https://hiddenhosts.com/en/server/airo) |
 | 花夜仙境 | 30x | 1x | 1x | 22 | - | [Details](https://hiddenhosts.com/en/server/server-guuvth) |
-| 七七仙境 | 999x | 1x | 1x | 17 | - | [Details](https://hiddenhosts.com/en/server/server-a6182y) |
+| 七七仙境 | 999x | 1x | 1x | 18 | - | [Details](https://hiddenhosts.com/en/server/server-a6182y) |
 | 星光詠嘆 | 200x | 1x | 1x | 13 | - | [Details](https://hiddenhosts.com/en/server/server-d89kj4) |
 
 <!-- SERVERS_END -->
