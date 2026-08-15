@@ -25,8 +25,8 @@
 | 夢憶仙境 | 50x | 1x | 1x | 26 | - | [詳情](https://hiddenhosts.com/server/夢憶仙境) |
 | AIRO | 2x | 1x | 1x | 26 | - | [詳情](https://hiddenhosts.com/server/airo) |
 | 花夜仙境 | 30x | 1x | 1x | 22 | - | [詳情](https://hiddenhosts.com/server/花夜仙境) |
-| 七七仙境 | 999x | 1x | 1x | 20 | - | [詳情](https://hiddenhosts.com/server/七七仙境) |
-| 星光詠嘆 | 200x | 1x | 1x | 13 | - | [詳情](https://hiddenhosts.com/server/星光詠嘆) |
+| 七七仙境 | 999x | 1x | 1x | 21 | - | [詳情](https://hiddenhosts.com/server/七七仙境) |
+| 星光詠嘆 | 200x | 1x | 1x | 15 | - | [詳情](https://hiddenhosts.com/server/星光詠嘆) |
 | 樂比仙境 | 50x | 1x | 1x | 1 | - | [詳情](https://hiddenhosts.com/server/樂比仙境) |
 | 亞卡迪亞 | 250x | 1x | 1x | 0 | - | [詳情](https://hiddenhosts.com/server/亞卡迪亞) |
 
