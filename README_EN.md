@@ -24,11 +24,11 @@ A curated list of Ragnarok Online private servers, maintained by [HiddenHosts](h
 |------|----------|----------|----------|--------|------|------|
 | AIRO | 2x | 1x | 1x | 27 | - | [Details](https://hiddenhosts.com/en/server/airo) |
 | 夢憶仙境 | 50x | 1x | 1x | 27 | - | [Details](https://hiddenhosts.com/en/server/夢憶仙境) |
-| 花夜仙境 | 30x | 1x | 1x | 22 | - | [Details](https://hiddenhosts.com/en/server/花夜仙境) |
-| 七七仙境 | 999x | 1x | 1x | 21 | - | [Details](https://hiddenhosts.com/en/server/七七仙境) |
+| 花夜仙境 | 30x | 1x | 1x | 23 | - | [Details](https://hiddenhosts.com/en/server/花夜仙境) |
+| 七七仙境 | 999x | 1x | 1x | 22 | - | [Details](https://hiddenhosts.com/en/server/七七仙境) |
 | 星光詠嘆 | 200x | 1x | 1x | 16 | - | [Details](https://hiddenhosts.com/en/server/星光詠嘆) |
+| 亞卡迪亞 | 250x | 1x | 1x | 3 | - | [Details](https://hiddenhosts.com/en/server/亞卡迪亞) |
 | 樂比仙境 | 50x | 1x | 1x | 2 | - | [Details](https://hiddenhosts.com/en/server/樂比仙境) |
-| 亞卡迪亞 | 250x | 1x | 1x | 2 | - | [Details](https://hiddenhosts.com/en/server/亞卡迪亞) |
 
 <!-- SERVERS_END -->
 
