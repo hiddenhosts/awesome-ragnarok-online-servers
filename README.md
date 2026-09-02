@@ -22,8 +22,8 @@
 
 | 名稱 | 經驗倍率 | 金幣倍率 | 掉寶倍率 | 投票數 | 評分 | 連結 |
 |------|----------|----------|----------|--------|------|------|
+| AIRO | 2x | 1x | 1x | 33 | - | [詳情](https://hiddenhosts.com/server/airo) |
 | 夢憶仙境 | 50x | 1x | 1x | 33 | - | [詳情](https://hiddenhosts.com/server/夢憶仙境) |
-| AIRO | 2x | 1x | 1x | 32 | - | [詳情](https://hiddenhosts.com/server/airo) |
 | 花夜仙境 | 30x | 1x | 1x | 27 | - | [詳情](https://hiddenhosts.com/server/花夜仙境) |
 | 七七仙境 | 999x | 1x | 1x | 26 | - | [詳情](https://hiddenhosts.com/server/七七仙境) |
 | 星光詠嘆 | 200x | 1x | 1x | 18 | - | [詳情](https://hiddenhosts.com/server/星光詠嘆) |
