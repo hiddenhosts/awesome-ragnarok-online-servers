@@ -26,7 +26,7 @@ A curated list of Ragnarok Online private servers, maintained by [HiddenHosts](h
 | 夢憶仙境 | 50x | 1x | 1x | 33 | - | [Details](https://hiddenhosts.com/en/server/夢憶仙境) |
 | 花夜仙境 | 30x | 1x | 1x | 27 | - | [Details](https://hiddenhosts.com/en/server/花夜仙境) |
 | 七七仙境 | 999x | 1x | 1x | 26 | - | [Details](https://hiddenhosts.com/en/server/七七仙境) |
-| 星光詠嘆 | 200x | 1x | 1x | 18 | - | [Details](https://hiddenhosts.com/en/server/星光詠嘆) |
+| 星光詠嘆 | 200x | 1x | 1x | 19 | - | [Details](https://hiddenhosts.com/en/server/星光詠嘆) |
 | 亞卡迪亞 | 250x | 1x | 1x | 11 | - | [Details](https://hiddenhosts.com/en/server/亞卡迪亞) |
 | 樂比仙境 | 50x | 1x | 1x | 9 | - | [Details](https://hiddenhosts.com/en/server/樂比仙境) |
 
